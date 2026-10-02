@@ -327,8 +327,7 @@ export default {
     {
       referencia:
         'Ministerio de Salud y Protección Social [Minsalud]. (2021). Gestión integral de elementos de protección personal (EPP).',
-      link:
-        'https://web.archive.org/web/20211014193811/https://www.minsalud.gov.co/Ministerio/Institucional/Procesos%20y%20procedimientos/GTHS02.pdf',
+      link: '',
     },
     {
       referencia:
