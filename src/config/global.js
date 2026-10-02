@@ -328,7 +328,7 @@ export default {
       referencia:
         'Ministerio de Salud y Protección Social [Minsalud]. (2021). Gestión integral de elementos de protección personal (EPP).',
       link:
-        'https://www.minsalud.gov.co/Ministerio/Institucional/Procesos%20y%20procedimientos/GTHS02.pdf',
+        'https://web.archive.org/web/20211014193811/https://www.minsalud.gov.co/Ministerio/Institucional/Procesos%20y%20procedimientos/GTHS02.pdf',
     },
     {
       referencia:
@@ -339,7 +339,7 @@ export default {
       referencia:
         'Rodríguez, A., López, N., Quintero, H. y Canales, R. (2002). Compuestos Orgánicos e Inorgánicos. En A. Rodríguez, Ciencia, Tecnología y Ambiente (p. 37-45). “Cengage Learning”.',
       link:
-        'https://link.gale.com/apps/doc/CX3003700023/GVRL?u=sena&sid=bookmark-GVRL&xid=6ea6e595',
+        'https://go-gale-com.bdigital.sena.edu.co/ps/i.do?p=GVRL&u=sena&id=GALE|CX3003700023&v=2.1&it=r',
     },
     {
       referencia:
